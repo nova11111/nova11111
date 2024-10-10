@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nova11111
-- 👀 I’m interested in ... Game programming and design, fractals, and sound stuff.
-- 🌱 I’m currently learning ... Python, game design, a little bit of art, and SFX stuff.
+- 👀 I’m interested in ... Game programming and design, art, and sound stuff.
+- 🌱 I’m currently learning ... Python, gml, game design, art, and SFX stuff.
 - 💞️ I’m looking to collaborate on ... Nothing much at the moment.
 - 📫 How to reach me ... TBD
 
